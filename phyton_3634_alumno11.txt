@@ -1,0 +1,12 @@
+El numero de value seleccionado es:10000000
+Time taken by reduction operation: 0.2993350028991699 seconds
+269 ms ± 14.1 µs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, value): 499999500000
+
+El tiempo tomado con listas y bucles es: 0.5987122058868408segundos
+El tiempo tomado con listas y funcion sum es: 0.05057525634765625segundos
+El tiempo con for y numpy array: 1.0910017490386963segundos
+El tiempo con sum() numpy array: 0.0052127838134765625segundos
+El tiempo con for y numpy array @njit: 3.4864304065704346segundos
+El tiempo con sum() numpy array @njit: 1.178297996520996segundos
