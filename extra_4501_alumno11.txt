@@ -1,0 +1,20 @@
+El numero de value seleccionado es:10000000
+
+ 	 Computing pi in serial: 
+
+	 For 10000000 trials, pi = 3.141722
+
+ El tiempo total para 10000000 trials es : 38.02683115005493 segundos
+
+ 	 Computing pi in serial: 
+
+	 For 10000000 trials, pi = 3.141512
+
+ El tiempo total para 10000000 trials es : 3.7707881927490234
+ El tiempo total para segunda ejecución 10000000 trials es : 0.015415191650390625
+
+RESULTADOS para Pascal-cpu 
+Obtenemos una mejora en la primera ejecución de  X: 10.084584231800136
+
+RESULTADOS para Pascal-cpu 
+Obtenemos una mejora en la segunda ejecución de  X: 2466.841283098243
